@@ -1,8 +1,9 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import NavBar from "./components/navbar";
-import Footer from "./components/Footer";
 import {Home} from "./components/home";
+import Footer from "./components/Footer";
+
 import {Contact} from "./components/Contact";
 import Signup from "./components/Signup";
 import Signin from "./components/Signin";
