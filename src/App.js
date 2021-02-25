@@ -3,9 +3,9 @@ import "./App.css";
 import NavBar from "./components/navbar";
 import {Home} from "./components/home";
 import Footer from "./components/Footer";
-
-import {Contact} from "./components/Contact";
 import Signup from "./components/Signup";
+import {Contact} from "./components/Contact";
+
 import Signin from "./components/Signin";
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Aboutus from "./components/Aboutus";
